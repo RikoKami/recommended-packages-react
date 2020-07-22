@@ -30,7 +30,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ### Testing
 
-- jest
+- [Jest](https://jestjs.io/docs/en/getting-started.html)
 - enzyme
 - react-testing-library
 - react-hooks-testing-library
