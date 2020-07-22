@@ -38,8 +38,9 @@ A collection of awesome things regarding the React ecosystem.
 
 ### State Management
 
-- redux
-- mobx
+- [Redux](https://github.com/reduxjs/redux)
+  - [Awesome Redux](https://github.com/xgrommx/awesome-redux)
+- [Mobx](https://github.com/mobxjs/mobx)
 - flux
 - recoil
 - xState
