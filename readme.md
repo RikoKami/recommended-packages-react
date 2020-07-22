@@ -74,6 +74,10 @@ A collection of awesome things regarding the React ecosystem.
 
 [react-geo](https://github.com/terrestris/react-geo) - A set of geo related components to use in combination with react, antd and ol.
 
+### Analytics
+
+- [React GA](https://github.com/react-ga/react-ga)
+
 ### Charts
 
 ## GraphQL
