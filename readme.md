@@ -8,7 +8,7 @@ A collection of awesome things regarding the React ecosystem.
 
 ### Styling
 
-- styled-components
+- [Styled-components](https://github.com/styled-components/styled-components) - Utilising tagged template literals (a recent addition to JavaScript) and the power of CSS, styled-components allows you to write actual CSS code to style your components.
 
 ### Routing
 
