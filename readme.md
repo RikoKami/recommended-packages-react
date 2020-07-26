@@ -27,6 +27,9 @@ A collection of awesome things regarding the React ecosystem.
 ### Component Libraries
 
 - [Ant Design](http://ant.design/)
+- [Material Design](https://material-ui.com/)
+- [Gestalt](https://www.npmjs.com/package/gestalt)
+- [Fluent UI](https://github.com/microsoft/fluentui)
 
 ### Testing
 
