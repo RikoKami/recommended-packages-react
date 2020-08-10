@@ -48,6 +48,13 @@ A collection of awesome things regarding the React ecosystem.
 - recoil
 - xState
 
+### Free Components
+
+## Drag and Drop
+
+- [React DnD](https://github.com/react-dnd/react-dnd)
+- [React Beautiful DnD](https://github.com/atlassian/react-beautiful-dnd)
+
 ### AR and VR
 
 - react 360
