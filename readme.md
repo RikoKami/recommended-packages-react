@@ -77,6 +77,7 @@ A collection of awesome things regarding the React ecosystem.
 ### Slides
 
 - [Swiper](https://swiperjs.com/get-started/)
+- [Keen Slider](https://keen-slider.io/)
 
 ### Maps
 
